@@ -59,6 +59,7 @@ The report is written in a consulting tone and mirrors professional deliverables
 
 /database_design
    tables_normalized.sql
+   joins_examples.sql
    erd.txt
 
 /data
